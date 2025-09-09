@@ -336,7 +336,7 @@ class RandomNumberApp:
         
         # Footer con estilo futurista
         footer = self.crear_etiqueta(frame_principal, 
-                                    "© 2024 Sistema de Simulación - Diseño Futurista", 
+                                    "© 2025 Sistema de Simulación ", 
                                     'Neon.TLabel')
         footer.pack(side='bottom', pady=20)
     
@@ -874,4 +874,5 @@ def main():
     root.mainloop()
 
 if __name__ == "__main__":
+
     main()
