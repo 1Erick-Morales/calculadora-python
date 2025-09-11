@@ -5,5 +5,6 @@ Fragmentos externos adaptados:
 - Uso de `numpy` (documentación oficial).
 
 -USO DE  tkinter 
+
  Recomendacion: Al momento de ejecutar colocar pantalla completa
 
